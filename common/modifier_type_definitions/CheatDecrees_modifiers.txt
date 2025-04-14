@@ -1,0 +1,16 @@
+cheatdecrees_desc_decisions_add = {
+	decimals = 2
+	color = good
+	percent = yes
+	game_data = {
+		ai_value = 0
+	}
+}
+
+cheatdecrees_technological_ascendancy = {
+	decimals = 0
+	color = good
+	game_data = {
+		ai_value = 0
+	}
+}

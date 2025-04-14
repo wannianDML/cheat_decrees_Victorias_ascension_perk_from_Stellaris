@@ -1,0 +1,337 @@
+﻿decree_cheat_one_vision = {
+	texture = "gfx/interface/icons/decree/decree_cheat_one_vision.dds"
+	modifier = {
+		state_assimilation_mult = 100
+		state_conversion_mult = 100
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_master_builders = {
+	texture = "gfx/interface/icons/decree/decree_cheat_master_builders.dds"
+	modifier = {
+		state_construction_mult = 3
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_nihilistic_acquisition = {
+	texture = "gfx/interface/icons/decree/decree_cheat_nihilistic_acquisition.dds"
+	modifier = {
+		building_nationalization_cost_mult = -0.5
+		building_nationalization_investment_return_add = 1
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_mastery_of_nature = {
+	texture = "gfx/interface/icons/decree/decree_cheat_mastery_of_nature.dds"
+	modifier = {
+		state_colony_growth_creation_mult = 5
+		state_colony_growth_speed_mult = 5
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_xeno_compatibility = {
+	texture = "gfx/interface/icons/decree/decree_cheat_xeno_compatibility.dds"
+	modifier = {
+		state_birth_rate_mult = 10
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_imperial_prerogative = {
+	texture = "gfx/interface/icons/decree/decree_cheat_imperial_prerogative.dds"
+	modifier = {
+		state_bureaucracy_population_base_cost_factor_mult = -0.5
+		state_decree_cost_mult = -0.9
+	}
+	cost = -300
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_transcendent_learning = {
+	texture = "gfx/interface/icons/decree/decree_cheat_transcendent_learning.dds"
+	modifier = {
+		state_pop_qualifications_mult = 5
+		state_education_access_add = 1
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_technological_ascendancy = {
+	texture = "gfx/interface/icons/decree/decree_cheat_technological_ascendancy.dds"
+	modifier = {
+		cheatdecrees_desc_decisions_add = 1
+	}
+	cost = 75
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_executive_vigor = {
+	texture = "gfx/interface/icons/decree/decree_cheat_executive_vigor.dds"
+	modifier = {
+		building_government_administration_throughput_add = 1
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_grasp_the_void = {
+	texture = "gfx/interface/icons/decree/decree_cheat_grasp_the_void.dds"
+	modifier = {
+		state_migration_pull_mult = 10
+		state_migration_quota_mult = 10
+		state_migration_pull_add = 10
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_become_the_crisis = {
+	texture = "gfx/interface/icons/decree/decree_cheat_become_the_crisis.dds"
+	modifier = {
+		state_mortality_mult = 1000
+		state_migration_pull_mult = -10
+		state_migration_quota_mult = -10
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_shared_destiny = {
+	texture = "gfx/interface/icons/decree/decree_cheat_shared_destiny.dds"
+	modifier = {
+		state_loyalism_increases_violent_hostility_mult = 5
+		state_loyalism_increases_cultural_erasure_mult = 5
+		state_loyalism_increases_open_prejudice_mult = 5
+		state_loyalism_increases_second_rate_citizen_mult = 5
+		state_loyalism_increases_full_acceptance_mult = 5
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_universal_transactions = {
+	texture = "gfx/interface/icons/decree/decree_cheat_universal_transactions.dds"
+	modifier = {
+		state_market_access_price_impact = 1
+		state_building_port_max_level_add = 10
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_machine_worlds = {
+	texture = "gfx/interface/icons/decree/decree_cheat_machine_worlds.dds"
+	modifier = {
+		building_throughput_add = 2
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_the_flesh_is_weak = {
+	texture = "gfx/interface/icons/decree/decree_cheat_the_flesh_is_weak.dds"
+	modifier = {
+		state_working_adult_ratio_add = 0.5
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_synthetic_age = {
+	texture = "gfx/interface/icons/decree/decree_cheat_synthetic_age.dds"
+	modifier = {
+		building_group_bg_manufacturing_employee_mult = -0.8		# 制造业就业者
+		building_group_bg_service_employee_mult = -0.8		# 城镇中心就业者
+		building_group_bg_government_employee_mult = -0.8		# 政府就业者
+		building_group_bg_agriculture_employee_mult = -0.8		# 农业就业者
+		building_group_bg_urban_facilities_employee_mult = -0.8		# 城市设施就业者
+		building_group_bg_plantations_employee_mult = -0.8		# 种植园就业者
+		building_group_bg_mining_employee_mult = -0.8		# 矿井就业者
+		building_group_bg_logging_employee_mult = -0.8		# 伐木业就业者
+		building_group_bg_rubber_employee_mult = -0.8		# 橡胶业就业者
+		building_group_bg_whaling_employee_mult = -0.8		# 捕鲸业就业者
+		building_group_bg_fishing_employee_mult = -0.8		# 鱼业就业者
+		building_group_bg_oil_extraction_employee_mult = -0.8		# 石油业就业者
+		building_group_bg_infrastructure_employee_mult = -0.8		# 基础设施就业者
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_detox = {
+	texture = "gfx/interface/icons/decree/decree_cheat_detox.dds"
+	modifier = {
+		state_pollution_generation_add = -100000
+		state_pollution_reduction_health_mult = -0.7
+	}
+	cost = 75
+	# valid = {
+	# 	owner = {
+	# 		is_player = yes
+	# 	}
+	# }
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_galactic_force_projection = {
+	texture = "gfx/interface/icons/decree/decree_cheat_galactic_force_projection.dds"
+	modifier = {
+	}
+	cost = 75
+	ai_weight = {
+		value = -10000
+	}
+}
+
+decree_cheat_galactic_force_projection = {
+	texture = "gfx/interface/icons/decree/decree_cheat_galactic_force_projection.dds"
+	modifier = {
+		state_building_barracks_max_level_add = 100
+		state_building_naval_base_max_level_add = 100
+		building_training_rate_add = 500
+		building_training_rate_mult = 1
+	}
+	cost = 75
+	ai_weight = {
+		value = -10000
+	}
+}
+
+# decree_cheat_galactic_contender = {
+#	texture = "gfx/interface/icons/decree/decree_cheat_galactic_contender.dds"
+#
+#	modifier = {
+#		unit_offense_mult = 0.33
+#		unit_defense_mult = 0.33
+#		unit_kill_rate_add = 0.33
+#		unit_recovery_rate_add = 0.33
+#	}
+#
+#	cost = 75
+#
+#	ai_weight = {
+#		value = -10000
+#	}
+#}

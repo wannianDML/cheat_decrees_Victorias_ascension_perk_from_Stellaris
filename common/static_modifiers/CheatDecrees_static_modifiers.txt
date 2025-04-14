@@ -1,0 +1,6 @@
+﻿modifier_cheat_technological_ascendancy = {
+	icon = "gfx/interface/icons/decree/decree_cheat_technological_ascendancy.dds"
+	country_tech_spread_mult = 0.1
+	country_weekly_innovation_add = 7.5
+	country_weekly_innovation_max_add = 75
+}

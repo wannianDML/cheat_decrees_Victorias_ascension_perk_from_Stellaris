@@ -1,0 +1,60 @@
+﻿l_turkish:
+ decree_cheat_one_vision:0 "Hepsi bir arada"
+ decree_cheat_one_vision_desc:0 "#N （makine çevirimi）#!Kelimenin gerçek anlamıyla birlik, ancak ulusun ve halkının nihai hedefi çakıştığında sağlanabilir.兄弟阋于墙，外御其侮。"
+ 
+ decree_cheat_master_builders:0 "Usta inşaatçı"
+ decree_cheat_master_builders_desc:0 "#N （makine çevirimi）#!Mega yapılar inşa etmek, hayal bile edilemeyecek bir kaynak depolama ve planlama gerektirir. Makro mühendisliğinde yepyeni bir seviyeye geçiyoruz."
+ 
+ decree_cheat_nihilistic_acquisition:0 "Zorla yakala"
+ decree_cheat_nihilistic_acquisition_desc:0 "#N （makine çevirimi）#!Bireysel kendi kaderini tayin etme ilkesi hiçbir şekilde demir bir ahlak yasası değildir ve kolektifin başarısı veya başarısızlığı, bireyin kazanım ve kayıplarından açıkça daha önemlidir."
+ 
+ decree_cheat_mastery_of_nature:0 "Doğanın kontrolünü elinize alın"
+ decree_cheat_mastery_of_nature_desc:0 "#N （makine çevirimi）#!Ana gezegenimizin doğal ortamına uzun zamandır aşina olmamıza rağmen, bugün karşılaştığımız uzaylı yaşam formları ekolojimiz için yeni zorluklar doğuruyor. Bu zorluklar bizim tarafımızdan fethedilmeli ve fethedilecektir."
+ 
+ decree_cheat_xeno_compatibility:0 "Türler arası hibridizasyon"
+ decree_cheat_xeno_compatibility_desc:0 "#N （makine çevirimi）#!Evrensel cinsiyet biyolojisinin doğuşu toplumumuzun çehresini tamamen değiştirdi. Her ne kadar bazen üremek için cinsiyeti değiştirmek zorunda kalmak biraz zahmetli olsa da."
+ 
+ decree_cheat_imperial_prerogative:0 "Merkezi ayrıcalıklar"
+ decree_cheat_imperial_prerogative_desc:0 "#N （makine çevirimi）#!Medeniyetimiz büyümeye devam ettikçe, medeniyetin kalbinin daha da genişletilmesi gerekiyor. Daha fazla galaksi, merkezi hükümetin doğrudan kontrolü altına alınacak."
+ 
+ decree_cheat_transcendent_learning:0 "Akademik Mükemmellik"
+ decree_cheat_transcendent_learning_desc:0 "#N （makine çevirimi）#!Toplumumuz öğrenmeye karşı tutumunu değiştirmelidir. Bu şekilde, en son teknolojimiz ve bilgi birikimimiz yeni zirvelere ulaşabilecektir."
+ 
+ #decree_cheat_technological_ascendancy:0 "Teknoloji her şeyden önemlidir"
+ #decree_cheat_technological_ascendancy_desc:0 "#N （makine çevirimi）#!Bir zamanlar büyülü olan siyah teknolojisi artık elinizin altında. Yeni bir teknoloji çağı geldi."
+ 
+ decree_cheat_executive_vigor:0 "Verimli yönetim"
+ decree_cheat_executive_vigor_desc:0 "#N （makine çevirimi）#!Hükümetimizin emirlerini yerine getirirken en ufak bir taviz verilmeyecek, zorluklar nedeniyle yarı yolda pes etmeyeceğiz. Ya yapma ya da sonuna kadar yap."
+ 
+ decree_cheat_grasp_the_void:0 "Ustalık çok boş"
+ decree_cheat_grasp_the_void_desc:0 "#N （makine çevirimi）#!Uçsuz bucaksız galaksi, boşluğa hakim olabilecek imparatorluklar tarafından keşfedilmeyi bekleyen sonsuz bir servete sahiptir."
+ 
+ decree_cheat_become_the_crisis:0 "Bir bela ol"
+ decree_cheat_become_the_crisis_desc:0 "#N （makine çevirimi）#!Bütün büyük işler fedakarlık gerektirir. Galaksideki diğer canlılar anlamayabilir ama itaat edeceklerdir."
+ 
+ decree_cheat_shared_destiny:0 "Ortak bir kader"
+ decree_cheat_shared_destiny_desc:0 "#N （makine çevirimi）#!Büyük zirvelere ulaşırken, bize sadık olanları asla terk etmemeliyiz. İmparatorluğumuzun şanlı geleceği tüm vatandaşlarına aittir."
+ 
+ decree_cheat_universal_transactions:0 "Evrensel Ticaret"
+ decree_cheat_universal_transactions_desc:0 "#N （makine çevirimi）#!İşimizi ve markamızı evrenin her köşesine genişletmeliyiz. Şehvet hiç bitmez!"
+ 
+ decree_cheat_machine_worlds:0 "Mekanik dünya"
+ decree_cheat_machine_worlds_desc:0 "#N （makine çevirimi）#!Dünyamızı kendimizin ayna görüntüsüne dönüştüreceğiz, kırılgan ve iktidarsız eti ebedi ve mükemmel metalle değiştireceğiz."
+ 
+ decree_cheat_the_flesh_is_weak:0 "Et ve kan zayıftır"
+ decree_cheat_the_flesh_is_weak_desc:0 "#N （makine çevirimi）#!Bedenin zayıflığı ve sınırlamaları artık yıldızlararası çağla bağdaşmaz değil. Potansiyelimize tam olarak ulaşmak için protez ve elektronik implantları tercih etmeliyiz."
+
+ decree_cheat_synthetic_age:0 "Sentez Çağı"
+ decree_cheat_synthetic_age_desc:0 "#N （makine çevirimi）#!Organik yaşam çağı sona erdi ve evrenin geleceği makinelere ait. Bu, sentetik çağın şafağıdır."
+ 
+ #decree_cheat_world_shaper:0 "Gezegen Şekillendirici"
+ #decree_cheat_world_shaper_desc:0 "#N （makine çevirimi）#!Bir gezegenin ekosistemini titiz oyma ve dönüştürme yoluyla dönüştürmek, bir sanatçının yumuşak kilden bir insan figürü yontmasından daha az zor değildir."
+
+decree_cheat_detox:0 "Detoksifikasyon"
+decree_cheat_detox_desc:0 "#N （makine çevirimi）#!Çevresel modifikasyondaki en son teknolojik atılımımız, daha önce değiştirilemeyecek kadar ölümcül olduğunu düşündüğümüz yeni bir gezegen sınıfında yaşamı beslememize izin verecek."
+
+decree_cheat_galactic_force_projection:0 "Galaktik güç projeksiyonu"
+decree_cheat_galactic_force_projection_desc:0 "#N （makine çevirimi）#!Filo, güç irademizin bir uzantısı ve bir yürütme aracıdır - filonun gücü imparatorlukların yükselişini ve düşüşünü belirler."
+
+# decree_cheat_galactic_contender:0 "Galaksiyi kovalayın"
+# decree_cheat_galactic_contender_desc:0 "#N （makine çevirimi）#!Kayıp İmparatorluk hala eski molozlara tutunuyor, etrafındaki yeni ortaya çıkan medeniyetten sebepsiz yere korkuyor ve ona güvenmiyor. Onları tarih sahnesinden atmanın zamanı geldi."

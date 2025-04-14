@@ -1,0 +1,33 @@
+﻿decision_cheat_modifier_calc = {
+	texture = "gfx/interface/icons/decree/decree_cheat_technological_ascendancy.dds"
+	possible = {
+		is_player = yes
+	}
+	when_taken = {
+		set_variable = {
+			name = cheat_technological_ascendancy_modifier_count
+			value = 0
+		}
+		every_scope_state = {
+			limit = {
+				has_decree = decree_cheat_technological_ascendancy
+			}
+			prev = {
+				change_variable = {
+					name = cheat_technological_ascendancy_modifier_count
+					add = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				has_modifier = modifier_cheat_technological_ascendancy
+			}
+			remove_modifier = modifier_cheat_technological_ascendancy
+		}
+		add_modifier = {
+			name = modifier_cheat_technological_ascendancy
+			multiplier = var:cheat_technological_ascendancy_modifier_count
+		}
+	}
+}
