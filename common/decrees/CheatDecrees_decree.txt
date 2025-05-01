@@ -4,7 +4,7 @@
 		state_assimilation_mult = 100
 		state_conversion_mult = 100
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -18,9 +18,10 @@
 decree_cheat_master_builders = {
 	texture = "gfx/interface/icons/decree/decree_cheat_master_builders.dds"
 	modifier = {
-		state_construction_mult = 3
+		state_construction_mult = 0.25
+		cheatdecrees_desc_decisions_add = 1
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -37,12 +38,7 @@ decree_cheat_nihilistic_acquisition = {
 		building_nationalization_cost_mult = -0.5
 		building_nationalization_investment_return_add = 1
 	}
-	cost = 75
-	# valid = {
-	# 	owner = {
-	# 		is_player = yes
-	# 	}
-	# }
+	cost = 50
 	ai_weight = {
 		value = -10000
 	}
@@ -54,7 +50,7 @@ decree_cheat_mastery_of_nature = {
 		state_colony_growth_creation_mult = 5
 		state_colony_growth_speed_mult = 5
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -70,7 +66,7 @@ decree_cheat_xeno_compatibility = {
 	modifier = {
 		state_birth_rate_mult = 10
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -107,7 +103,7 @@ decree_cheat_transcendent_learning = {
 		state_pop_qualifications_mult = 5
 		state_education_access_add = 1
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -123,7 +119,7 @@ decree_cheat_technological_ascendancy = {
 	modifier = {
 		cheatdecrees_desc_decisions_add = 1
 	}
-	cost = 75
+	cost = 50
 	ai_weight = {
 		value = -10000
 	}
@@ -134,7 +130,7 @@ decree_cheat_executive_vigor = {
 	modifier = {
 		building_government_administration_throughput_add = 1
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -152,7 +148,7 @@ decree_cheat_grasp_the_void = {
 		state_migration_quota_mult = 10
 		state_migration_pull_add = 10
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -170,7 +166,7 @@ decree_cheat_become_the_crisis = {
 		state_migration_pull_mult = -10
 		state_migration_quota_mult = -10
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -184,13 +180,14 @@ decree_cheat_become_the_crisis = {
 decree_cheat_shared_destiny = {
 	texture = "gfx/interface/icons/decree/decree_cheat_shared_destiny.dds"
 	modifier = {
-		state_loyalism_increases_violent_hostility_mult = 5
-		state_loyalism_increases_cultural_erasure_mult = 5
-		state_loyalism_increases_open_prejudice_mult = 5
-		state_loyalism_increases_second_rate_citizen_mult = 5
-		state_loyalism_increases_full_acceptance_mult = 5
+		state_loyalism_increases_violent_hostility_mult = 0.5
+		state_loyalism_increases_cultural_erasure_mult = 0.5
+		state_loyalism_increases_open_prejudice_mult = 0.5
+		state_loyalism_increases_second_rate_citizen_mult = 0.5
+		state_loyalism_increases_full_acceptance_mult = 0.5
+		cheatdecrees_desc_decisions_add = 1
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -206,8 +203,9 @@ decree_cheat_universal_transactions = {
 	modifier = {
 		state_market_access_price_impact = 1
 		state_building_port_max_level_add = 10
+		cheatdecrees_desc_decisions_add = 1
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -223,7 +221,7 @@ decree_cheat_machine_worlds = {
 	modifier = {
 		building_throughput_add = 2
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -239,7 +237,7 @@ decree_cheat_the_flesh_is_weak = {
 	modifier = {
 		state_working_adult_ratio_add = 0.5
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -267,7 +265,7 @@ decree_cheat_synthetic_age = {
 		building_group_bg_oil_extraction_employee_mult = -0.8		# 石油业就业者
 		building_group_bg_infrastructure_employee_mult = -0.8		# 基础设施就业者
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -284,7 +282,7 @@ decree_cheat_detox = {
 		state_pollution_generation_add = -100000
 		state_pollution_reduction_health_mult = -0.7
 	}
-	cost = 75
+	cost = 50
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
@@ -299,7 +297,7 @@ decree_cheat_galactic_force_projection = {
 	texture = "gfx/interface/icons/decree/decree_cheat_galactic_force_projection.dds"
 	modifier = {
 	}
-	cost = 75
+	cost = 50
 	ai_weight = {
 		value = -10000
 	}
@@ -313,7 +311,7 @@ decree_cheat_galactic_force_projection = {
 		building_training_rate_add = 500
 		building_training_rate_mult = 1
 	}
-	cost = 75
+	cost = 50
 	ai_weight = {
 		value = -10000
 	}
@@ -329,7 +327,7 @@ decree_cheat_galactic_force_projection = {
 #		unit_recovery_rate_add = 0.33
 #	}
 #
-#	cost = 75
+#	cost = 50
 #
 #	ai_weight = {
 #		value = -10000

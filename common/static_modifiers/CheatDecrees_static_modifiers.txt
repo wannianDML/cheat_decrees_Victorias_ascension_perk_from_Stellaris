@@ -4,3 +4,20 @@
 	country_weekly_innovation_add = 7.5
 	country_weekly_innovation_max_add = 75
 }
+
+modifier_cheat_master_builders = {
+	icon = "gfx/interface/icons/decree/decree_cheat_master_builders.dds"
+	country_max_weekly_construction_progress_add = 25
+	country_construction_add = 5
+}
+
+modifier_cheat_shared_destiny = {
+	icon = "gfx/interface/icons/decree/decree_cheat_shared_destiny.dds"
+	state_dependent_wage_add = 0.02
+	state_dependent_wage_mult = 0.05
+}
+
+modifier_cheat_universal_transactions = {
+	icon = "gfx/interface/icons/decree/decree_cheat_universal_transactions.dds"
+	country_trade_route_competitiveness_mult = 0.1
+}
