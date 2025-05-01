@@ -1,3 +1,3 @@
 ﻿l_simp_chinese:
  decision_cheat_modifier_calc:0 "【维多利亚的Stellaris飞升】特殊法令加成计算"
- decision_cheat_modifier_calc_desc:0 "#N （多按几次才能准确计算！）#!\n法令作用域是地区，但是有些东西是按国家加成的，所以需要这个东西。\n部分加成是基于颁布法令的地区数量计算的。\n性能考虑没搞自动计算。反正点不了几次。\n不存在bug，只有“特性”。"
+ decision_cheat_modifier_calc_desc:0 "#N （多按几次才能准确计算！）#!\n法令作用域是地区，但是有些东西是按国家加成的，所以需要这个东西。\n部分加成是基于颁布法令的地区数量计算的。\n性能考虑没搞自动计算。反正点不了几次。\n#G 此决议不存在bug，只有“特性”。#!"
