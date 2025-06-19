@@ -93,32 +93,32 @@
 				multiplier = var:modifier_cheat_shared_destiny_count
 			}
 		}
-		if = {
-			limit = {
-				any_scope_state = {
-					has_decree = decree_cheat_universal_transactions
-				}
-			}
-			set_variable = {
-				name = modifier_cheat_universal_transactions_count
-				value = 0
-			}
-			every_scope_state = {
-				limit = {
-					has_decree = decree_cheat_universal_transactions
-				}
-				prev = {
-					change_variable = {
-						name = modifier_cheat_universal_transactions_count
-						add = 1
-					}
-				}
-			}
-			remove_modifier = modifier_cheat_universal_transactions
-			add_modifier = {
-				name = modifier_cheat_universal_transactions
-				multiplier = var:modifier_cheat_universal_transactions_count
-			}
-		}
+		# if = {
+		# 	limit = {
+		# 		any_scope_state = {
+		# 			has_decree = decree_cheat_universal_transactions
+		# 		}
+		# 	}
+		# 	set_variable = {
+		# 		name = modifier_cheat_universal_transactions_count
+		# 		value = 0
+		# 	}
+		# 	every_scope_state = {
+		# 		limit = {
+		# 			has_decree = decree_cheat_universal_transactions
+		# 		}
+		# 		prev = {
+		# 			change_variable = {
+		# 				name = modifier_cheat_universal_transactions_count
+		# 				add = 1
+		# 			}
+		# 		}
+		# 	}
+		# 	remove_modifier = modifier_cheat_universal_transactions
+		# 	add_modifier = {
+		# 		name = modifier_cheat_universal_transactions
+		# 		multiplier = var:modifier_cheat_universal_transactions_count
+		# 	}
+		# }
 	}
 }

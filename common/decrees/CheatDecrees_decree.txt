@@ -202,8 +202,10 @@ decree_cheat_universal_transactions = {
 	texture = "gfx/interface/icons/decree/decree_cheat_universal_transactions.dds"
 	modifier = {
 		state_market_access_price_impact = 1
-		state_building_port_max_level_add = 10
-		cheatdecrees_desc_decisions_add = 1
+		state_trade_capacity_mult = 1
+		state_trade_advantage_mult = 1
+		state_max_trade_advantage_from_capacity_add = 100
+		#cheatdecrees_desc_decisions_add = 1
 	}
 	cost = 50
 	# valid = {

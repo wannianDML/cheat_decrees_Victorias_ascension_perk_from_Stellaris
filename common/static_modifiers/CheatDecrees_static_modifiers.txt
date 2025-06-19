@@ -17,7 +17,7 @@ modifier_cheat_shared_destiny = {
 	state_dependent_wage_mult = 0.05
 }
 
-modifier_cheat_universal_transactions = {
-	icon = "gfx/interface/icons/decree/decree_cheat_universal_transactions.dds"
-	country_trade_route_competitiveness_mult = 0.1
-}
+# modifier_cheat_universal_transactions = {
+# 	icon = "gfx/interface/icons/decree/decree_cheat_universal_transactions.dds"
+# 	country_trade_route_competitiveness_mult = 0.1
+# }
