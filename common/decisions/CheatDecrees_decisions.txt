@@ -122,3 +122,36 @@
 		# }
 	}
 }
+
+decision_cheat_modifier_clear = {
+	texture = "gfx/interface/icons/decree/decree_cheat_technological_ascendancy.dds"
+	possible = {
+		is_player = yes
+	}
+	when_taken = {
+		if = {
+			limit = {
+				any_scope_state = {
+					has_decree = decree_cheat_technological_ascendancy
+				}
+			}
+			remove_modifier = modifier_cheat_technological_ascendancy
+		}
+		if = {
+			limit = {
+				any_scope_state = {
+					has_decree = decree_cheat_master_builders
+				}
+			}
+			remove_modifier = decree_cheat_master_builders
+		}
+		if = {
+			limit = {
+				any_scope_state = {
+					has_decree = decree_cheat_shared_destiny
+				}
+			}
+			remove_modifier = decree_cheat_shared_destiny
+		}
+	}
+}
