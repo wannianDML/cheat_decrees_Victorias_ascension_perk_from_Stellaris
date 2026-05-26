@@ -112,3 +112,4 @@
 
 作弊法令 - 维多利亚的Stellaris飞升
 cheat decrees - Victoria's ascension perk from Stellaris
+GitHub：cheat_decrees_Victorias_ascension_perk_from_Stellaris
