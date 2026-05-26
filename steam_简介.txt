@@ -85,6 +85,9 @@
 [hr][/hr]
 [h2][b]更新日志（近期）[/b][/h2]
 查询版本具体改动：[url=https://github.com/wannianDML/cheat_decrees_Victorias_ascension_perk_from_Stellaris/commits/main/]GitHub[/url]
+——2026年5月26日——
+①适配正式版v1.13.6
+②修复点清除法令效果决议闪退的问题，感谢@Gevonia 4 月 5 日 下午 9:18 留言
 ——2025年12月14日——
 ①适配正式版v1.12.1
 ②新增一个“清理所有特殊法令加成”的决议
@@ -106,9 +109,6 @@
 ②添加“星河力量投射”一项法令
 ③“共同命运”调整为提高全地位忠诚度
 ④修正STEAM描述页内容。
-——2024年8月18日——
-①“中央特权”给予权威力 15->30
-②所有法令移除“仅玩家可用”的限制，同时添加ai选择倾向 -10000。这项改动意味着 “理论上”（未做测试）ai不会主动使用法令，同时玩家可用通过国家集团的“附庸III”在ai的地区颁布法令。（可能也会因某些原因导致ai不会取消法令）
 
 作弊法令 - 维多利亚的Stellaris飞升
 cheat decrees - Victoria's ascension perk from Stellaris

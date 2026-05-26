@@ -143,7 +143,7 @@ decision_cheat_modifier_clear = {
 					has_decree = decree_cheat_master_builders
 				}
 			}
-			remove_modifier = decree_cheat_master_builders
+			remove_modifier = modifier_cheat_master_builders
 		}
 		if = {
 			limit = {
@@ -151,7 +151,7 @@ decision_cheat_modifier_clear = {
 					has_decree = decree_cheat_shared_destiny
 				}
 			}
-			remove_modifier = decree_cheat_shared_destiny
+			remove_modifier = modifier_cheat_shared_destiny
 		}
 	}
 }
