@@ -1,0 +1,5 @@
+﻿l_english:
+ decision_cheat_modifier_calc:0 "[Victoria's Stellaris Ascension] Special Decree Bonus Calculator"
+ decision_cheat_modifier_calc_desc:0 "#N (Click multiple times for accurate calculation!)#!\nDecrees are state-scoped, but some bonuses apply at the country level, so this is needed.\nSome bonuses are calculated based on the number of states with the decree enacted.\nNo auto-calculation for performance reasons. You won't need to click many times anyway.\n#G This decision has no bugs, only 'features'.#!"
+ decision_cheat_modifier_clear:0 "[Victoria's Stellaris Ascension] Clear All Special Decree Bonuses"
+ decision_cheat_modifier_clear_desc:0 ""

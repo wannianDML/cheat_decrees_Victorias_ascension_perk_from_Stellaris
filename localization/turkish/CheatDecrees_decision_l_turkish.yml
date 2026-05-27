@@ -1,0 +1,5 @@
+﻿l_turkish:
+ decision_cheat_modifier_calc:0 "[Victoria'nın Stellaris Yükselişi] Özel Kararname Bonus Hesaplayıcı"
+ decision_cheat_modifier_calc_desc:0 "#N (Doğru hesaplama için birkaç kez tıklayın!)#!\nKararnameler bölge kapsamlıdır, ancak bazı bonuslar ülke düzeyinde uygulanır, bu yüzden buna ihtiyaç vardır.\nBazı bonuslar, kararname çıkarılan bölge sayısına göre hesaplanır.\nPerformans nedeniyle otomatik hesaplama yoktur. Zaten çok fazla tıklamanız gerekmeyecek.\n#G Bu kararda hata yok, sadece 'özellikler' var.#!"
+ decision_cheat_modifier_clear:0 "[Victoria'nın Stellaris Yükselişi] Tüm Özel Kararname Bonuslarını Temizle"
+ decision_cheat_modifier_clear_desc:0 ""
