@@ -14,3 +14,21 @@ cheatdecrees_technological_ascendancy = {
 		ai_value = 0
 	}
 }
+
+building_group_bg_ranching_employee_mult = {
+	decimals = 1
+	color = bad
+	percent = yes
+	game_data = {
+		ai_value = 0
+	}
+}
+
+building_group_bg_urban_facilities_employee_mult = {
+	decimals = 1
+	color = bad
+	percent = yes
+	game_data = {
+		ai_value = 0
+	}
+}
