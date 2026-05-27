@@ -97,10 +97,9 @@ decree_cheat_imperial_prerogative = {
 	modifier = {
 		state_bureaucracy_population_base_cost_factor_mult = -0.5
 		state_decree_cost_mult = -0.9
+		cheatdecrees_desc_decisions_add = 1
 	}
-	# 注意：因为本法令自带 -90% 法令花费，实际花费 = cost * (1 - 0.9) = cost * 0.1
-	# 所以 cost = -450 时，实际获得权威力 = 450 * 0.1 = 45
-	cost = -450
+	cost = 0
 	# valid = {
 	# 	owner = {
 	# 		is_player = yes
