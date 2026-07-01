@@ -23,3 +23,13 @@ building_group_bg_urban_facilities_employee_mult = {
 		ai_value = 0
 	}
 }
+
+# 本体 modifier_type_definitions 遗漏了畜牧业的 employee_mult，这里补上
+building_group_bg_ranching_employee_mult = {
+	decimals = 1
+	color = bad
+	percent = yes
+	game_data = {
+		ai_value = 0
+	}
+}

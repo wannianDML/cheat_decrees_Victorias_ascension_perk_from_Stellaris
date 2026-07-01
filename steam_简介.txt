@@ -89,6 +89,8 @@
 [hr][/hr]
 [h2][b]更新日志（近期）[/b][/h2]
 查询版本具体改动：[url=https://github.com/wannianDML/cheat_decrees_Victorias_ascension_perk_from_Stellaris/commits/main/]GitHub[/url]
+——2026年7月1日——
+①修复"合成时代"畜牧业就业人数修正不生效的问题（本体同样漏了注册这条modifier类型，与之前修复的城市设施是同一根因），感谢评论区 @守银 留言指出解决方案
 ——2026年5月27日——
 ①修复“合成时代”城市设施就业人数修正不生效的问题（缺少modifier类型注册）
 ②修复“合成时代”城市设施就业者本地化缺失的问题
@@ -108,11 +110,6 @@
 ①全部法令消耗降低至 50 权威力。
 ②“建筑大师”、“共同命运”、“寰宇贸易”小重做，调整了原有数值，增加了和“科技至上”类似的机制。
 ③修正STEAM描述页内容。
-——2025年4月13日——
-①适配正式版V1.8.7
-②新增土耳其语机器翻译
-③修正STEAM描述页内容，移除了法令前面的“作弊”标识。
-④新增“科技至上”一项法令。
 
 作弊法令 - 维多利亚的Stellaris飞升
 cheat decrees - Victoria's ascension perk from Stellaris

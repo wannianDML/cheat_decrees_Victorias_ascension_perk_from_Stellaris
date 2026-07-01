@@ -273,6 +273,7 @@ decree_cheat_synthetic_age = {
 		building_group_bg_service_employee_mult = -0.8		# 城镇中心就业者
 		building_group_bg_government_employee_mult = -0.8		# 政府就业者
 		building_group_bg_agriculture_employee_mult = -0.8		# 农业就业者
+		building_group_bg_ranching_employee_mult = -0.8		# 畜牧业就业者
 		building_group_bg_urban_facilities_employee_mult = -0.8		# 城市设施就业者
 		building_group_bg_plantations_employee_mult = -0.8		# 种植园就业者
 		building_group_bg_mining_employee_mult = -0.8		# 矿井就业者
